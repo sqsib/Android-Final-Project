@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="location">Location</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="distance">Distance:</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="removeFriend">Remove Friend</string>
+
+    <string-array name="spinner_array">
+        <item>Add Friend</item>
+
+    </string-array>
+</resources>
